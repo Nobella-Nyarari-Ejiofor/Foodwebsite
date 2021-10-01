@@ -32,6 +32,10 @@ button{
   float: left;
   font-weight: 900;
 }
+.box1{
+  background-color: grey;
+  height: 500px;
+}
 
 
 
