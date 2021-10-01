@@ -1,0 +1,26 @@
+nav{
+  margin: 0 auto;
+  padding:0.1% 0;
+  margin-right: 0;
+}
+nav>ul{
+  text-align: center;
+}
+ul>li{
+  display: inline-block;
+  text-align: center;
+}
+ul>li>a{
+  padding: 10%;
+  text-decoration:none;
+}
+#box1{
+  background-color: gray;
+}
+#paragraph{
+  margin: 20px;
+  width: 300px;
+}
+
+
+
