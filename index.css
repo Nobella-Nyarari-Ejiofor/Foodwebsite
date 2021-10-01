@@ -40,8 +40,37 @@ button{
   margin: 20px;
 }
 #about{
-  position: absolute;
+  overflow: hidden;
+  height: 400px;
+  
+
 }
+#eat{
+  display: flex;
+  width: 400px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  float: right;
+  text-align: center;
+  margin: 20px;
+}
+#eat-img{
+  float:left;
+  height: 100px;
+}
+div>img{
+  border: 10px ;
+  display: block;
+  background-color: white;
+  
+}
+#menu{
+  background-color: #649549;
+  
+}
+
+
 
 
 
