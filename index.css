@@ -84,12 +84,15 @@ button{
   position: relative;
   margin: 20px;
 }
-#about{
+.about{
   overflow: hidden;
-  height: 400px;
-  
-
-}
+  height: 500px;
+  background-color: red;
+  }
+  #eating{
+    height: 400px;
+    margin-top: 30px;
+  }
 #eat{
   display: flex;
   width: 400px;
@@ -99,10 +102,6 @@ button{
   float: right;
   text-align: center;
   margin: 20px;
-}
-#eat-img{
-  float:left;
-  height: 100px;
 }
 div>img{
   border: 10px ;
@@ -114,6 +113,7 @@ div>img{
   background-color: #649549;
   
 }
+
 
 
 
