@@ -25,7 +25,7 @@ ul>li>a{
   font-size: 14;
   font-family: arial;
   color:#1e1e1e;
-  padding: 0px 50px;
+  padding: 0px 20px;
 }
 body{
   width: 1400px;
@@ -36,17 +36,28 @@ body{
   width: auto;
   position: absolute;
   z-index: 1;
+  overflow: hidden;
+  }
+  
+  #star{
+    height: 100px;
+    display: inline-block;
+    padding-top: 0px;
+
   }
 .semicircle{
   transform: translate X(50%);
   top: 0;
-  left:0;
-  width: 70vw;
-  height: 70vh;
+  right:0;
+  left: 38%;
+  width: 60vw;
+  height: 60vh;
   background-color:#6cb840 ;
   border-radius: 0 0 50% 50%/0 0 100% 100%;
   position: absolute;
   z-index: -6;
+  
+  
 
 }
 #paragraph{
