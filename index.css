@@ -34,7 +34,21 @@ body{
   background-color: gray;
   min-height: 500px;
   width: auto;
+  position: absolute;
+  z-index: 1;
   }
+.semicircle{
+  transform: translate X(50%);
+  top: 0;
+  left:0;
+  width: 70vw;
+  height: 70vh;
+  background-color:#6cb840 ;
+  border-radius: 0 0 50% 50%/0 0 100% 100%;
+  position: absolute;
+  z-index: -6;
+
+}
 #paragraph{
   margin: 20px;
   width: 300px;
