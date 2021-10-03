@@ -79,6 +79,7 @@ body{
 button{
   background-color:#6cb840;
   color: white;
+  width: 150px;
   margin-top: 20px;
   border: 30px;
   border-radius: 20px;
@@ -118,8 +119,11 @@ button{
   margin-top: 100px;
   margin-left: 20px;
 }
+#eat h2{
+  font-size: xx-large;
+}
 .menu{
-  background-color: #6cb840;
+  background-color: #e0ffff;
   width: 1300px;
   
 }
