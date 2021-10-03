@@ -169,6 +169,7 @@ div.gallery img{
   
 }
 #hotdeals{
+  padding-top: 50px;
   width: 1300px;
   background-color: #c9ecb5 ;
 }
@@ -181,7 +182,7 @@ div.gallery img{
   background-color: #ffe4c4;
   height: 600px;
   width: 1300px;
-  
+  margin-top: 50px;
 }
 #text{
   width: 400px;
@@ -191,28 +192,58 @@ div.gallery img{
   padding-top: 100px;
 
 }
+ form{
+  height: 100px;
+  width: 200px;
+}
 footer{
-  height: 400px;
+  width: 1300px;
+  height: 250px;
+  background-color: lightgrey;
+  font-size: large;
 }
 footer div{
   display: inline-block;
 }
 .col1{
-  width: 200px;
+  width: 150px;
+  padding-right: 60px;
+  border-right: dotted black;
 }
 .col2{
-  width: 300px;
-  padding-left: 50px;
+  width: 200px;
+  padding-left: 0px;
+  margin-bottom: 100px;
+  text-align:  center;
 }
 .col3{
-  width: 300px;
+  width: 250px;
   padding-left: 350px;
+  text-align: left;
+
 }
+
 .col4{
   width: 100px;
   padding-left: 20px;
 }
-
+.col4 button {
+  border-radius: 5px;
+  width: 80px;
+}
+#thur{
+  padding-bottom: 30px;
+  padding-top: 50px;
+}
+#fri{
+  margin-top: 50px;
+  text-align: left;
+  
+}
+.col4 img{
+  padding-top: 0;
+  height: 30px;
+}
   
 
 
