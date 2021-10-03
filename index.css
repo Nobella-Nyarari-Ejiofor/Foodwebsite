@@ -109,12 +109,8 @@ button{
 }
 .menu{
   background-color: #6cb840;
-  height: auto;
+  width: 1300px;
   
-  
-  
-  
-
 }
 
 div.gallery{
@@ -138,13 +134,35 @@ div.gallery img{
    text-align: center;
    padding-top: 40px;
    padding-bottom: 30px;
+
  }
  .desc{
    text-align: center;
    padding-bottom: 10px;
    padding-right: 15px;
  }
-
+#banner{
+  float: right;
+  text-align: center;
+  font-size: large;
+  width: 400px;
+  height: 1000px;
+  padding-top: 200px;
+  padding-right: 200px;
+}
+#juice img{
+  height: 600px;
+  padding-left: 200px;
+  
+}
+#hotdeals{
+  width: 1300px;
+  background-color: #c9ecb5 ;
+}
+#hotdeals h3{
+  font-size: 20px;
+  text-align: center;
+}
   
 
   
