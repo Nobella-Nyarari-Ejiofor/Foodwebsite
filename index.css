@@ -135,14 +135,12 @@ div.gallery{
   display: inline-block;
   border-bottom-right-radius: 50px;
   margin: 40px;
-  
-
-
-  
 }
 div.gallery img{
   height: 200px;
   float: left;
+ margin-top: 50px;
+  
   
 }
  .menu h1{
@@ -175,11 +173,12 @@ div.gallery img{
   background-color: #c9ecb5 ;
 }
 #hotdeals h3{
-  font-size: 20px;
+  font-size: xx-large;
   text-align: center;
+  padding-top: 50px;
 }
 #contact{
-  background-color: #ffd77c;
+  background-color: #ffe4c4;
   height: 600px;
   width: 1300px;
   
@@ -189,6 +188,7 @@ div.gallery img{
   text-align: center;
   margin-left: 400px;
   font-size: x-large;
+  padding-top: 100px;
 
 }
 footer{
