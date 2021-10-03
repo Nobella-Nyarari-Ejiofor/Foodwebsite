@@ -163,7 +163,40 @@ div.gallery img{
   font-size: 20px;
   text-align: center;
 }
+#contact{
+  background-color: #ffd77c;
+  height: 600px;
+  width: 1300px;
   
+}
+#text{
+  width: 400px;
+  text-align: center;
+  margin-left: 400px;
+  font-size: x-large;
+
+}
+footer{
+  height: 400px;
+}
+footer div{
+  display: inline-block;
+}
+.col1{
+  width: 200px;
+}
+.col2{
+  width: 300px;
+  padding-left: 50px;
+}
+.col3{
+  width: 300px;
+  padding-left: 350px;
+}
+.col4{
+  width: 100px;
+  padding-left: 20px;
+}
 
   
 
