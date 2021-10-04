@@ -61,26 +61,30 @@ body{
   border-radius: 0 0 50% 50%/0 0 100% 100%;
   position: absolute; 
   z-index: -1;
+  overflow: hidden;
   }
 
 .foodcontainer{
-height: 400px;
-width: 500px;
-height: 500px;
+position: relative;
+width: 530px;
+height: 265px;
 border: 3px dashed black;
-border-radius: 50%;
-position: absolute;
+border-top-left-radius: 50% 100%;
+border-top-right-radius: 50% 100%;
+position: relative;
+bottom: -150px;
+right: -200px;
+background-color: yellow;
 /* transform: translate(40%, 800px) translate(-55%, -25%) rotate(5deg); */
 /* transform: translate(40%, 200px)  rotate(deg); */
 /* border-bottom-color: transparent; */
-border-left-color: transparent;
-
-
+/* border-left-color: transparent; */
 }
-.foodcontainer{
-  width: 100px;
-  height: 100px;
-  margin: -50px;
+#first{
+  position: relative;
+  bottom: -170px;
+  left: -10px;
+
 }
 
 #paragraph{
