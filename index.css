@@ -67,14 +67,13 @@ body{
 .foodcontainer{
 position: relative;
 width: 530px;
-height: 265px;
+height: 530px;
 border: 3px dashed black;
-border-top-left-radius: 50% 100%;
-border-top-right-radius: 50% 100%;
+border-radius: 50%;
 position: relative;
 bottom: -150px;
 right: -200px;
-background-color: yellow;
+background-color:yellow;
 /* transform: translate(40%, 800px) translate(-55%, -25%) rotate(5deg); */
 /* transform: translate(40%, 200px)  rotate(deg); */
 /* border-bottom-color: transparent; */
@@ -82,9 +81,33 @@ background-color: yellow;
 }
 #first{
   position: relative;
-  bottom: -170px;
-  left: -10px;
-
+  bottom: -200px;
+  left: -30px;
+}
+#second{
+  position: relative;
+  left: -70px;
+  bottom: -40px;
+  
+}
+#third{
+  position: relative;
+  bottom: -270px;
+}
+#fourth{
+  position: relative;
+  right: -80px;
+  bottom: -40px;
+}
+#fifth{
+  position: relative;
+  bottom: -210px;
+  right: -40px;
+}
+#sixth{
+  position: relative;
+  right: -200px;
+  top: -170px;
 }
 
 #paragraph{
