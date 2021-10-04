@@ -33,7 +33,7 @@ ul>li>a{
   margin-bottom: 20px;
 }
 body{
-  width: 1400px;
+  width: 100%;
 }
 .box1{
   background-color: #f5f5f5;
@@ -73,7 +73,7 @@ border-radius: 50%;
 position: relative;
 bottom: -150px;
 right: -200px;
-background-color:yellow;
+background-color:transparent;
 /* transform: translate(40%, 800px) translate(-55%, -25%) rotate(5deg); */
 /* transform: translate(40%, 200px)  rotate(deg); */
 /* border-bottom-color: transparent; */
@@ -170,7 +170,9 @@ button{
   
 }
 
-div.gallery{
+
+
+.gallery{
   background-color: white;
   width: 350px;
   margin: 10px;
@@ -178,10 +180,11 @@ div.gallery{
   border-bottom-right-radius: 50px;
   margin: 40px;
 }
-div.gallery img{
+.gallery img{
   height: 200px;
-  float: left;
- margin-top: 50px;
+  /* float: left; */
+ margin-top: 40px;
+ /* margin-right: 100px; */
   
   
 }
