@@ -25,7 +25,6 @@
 
 ### Installation Process
 
-[Go Back to the top](#FoodWebsite Project)
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
@@ -33,8 +32,6 @@
 
 ## Reference
 * LMS
-
-[Go Back to the top](#FoodWebsite Project)
 
 ## Licence
 
@@ -60,11 +57,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#FoodWebsite Project)
 
 ## Authors Info
 
 GMAIL-nobellanyarari@gmail.com
-[Go Back to the top](#FoodWebsite Project)
 
 
